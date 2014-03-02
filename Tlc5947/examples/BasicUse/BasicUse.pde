@@ -47,7 +47,7 @@
 
     Alex Leone <acleone ~AT~ gmail.com>, 2009-02-03 */
 
-#include "Tlc5940.h"
+#include "Tlc5947.h"
 
 void setup()
 {
@@ -59,7 +59,7 @@ void setup()
 /* This loop will create a Knight Rider-like effect if you have LEDs plugged
    into all the TLC outputs.  NUM_TLCS is defined in "tlc_config.h" in the
    library folder.  After editing tlc_config.h for your setup, delete the
-   Tlc5940.o file to save the changes. */
+   Tlc5947.o file to save the changes. */
 
 void loop()
 {

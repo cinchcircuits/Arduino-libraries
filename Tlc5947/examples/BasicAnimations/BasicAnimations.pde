@@ -4,7 +4,7 @@
     more than 1 TLC.
 
     I generated the animation with the included java code:
-    <arduino folder>/hardware/libraries/Tlc5940/examples/BasicAnimations
+    <arduino folder>/hardware/libraries/Tlc5947/examples/BasicAnimations
 
     To use the code, run
         java AnimationCreator
@@ -15,7 +15,7 @@
 
     Alex Leone <acleone ~AT~ gmail.com>, 2009-02-03 */
 
-#include "Tlc5940.h"
+#include "Tlc5947.h"
 #include "tlc_animations.h"
 #include "ani_arduino.h"
 
